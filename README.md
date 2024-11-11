@@ -1,5 +1,7 @@
 # Magikarp
 
+Projeto feito para a Disciplina PGC-UFF Otimização Multiobjetivo do Prof. Dr. Igor Machado Coelho
+
 **Magikarp** é um projeto em C++ para resolver o problema de particionamento de números usando uma combinação dos algoritmos **Karmarkar-Karp**, **GRASP (Greedy Randomized Adaptive Search Procedure)** e **Simulated Annealing (SA)**. O objetivo é dividir um conjunto de números em dois subconjuntos com a menor diferença possível entre suas somas.
 
 ## Características
